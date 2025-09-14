@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Niket Kumar Singh</h1>
 <h3 align="center">A passionate Data Science & AI Enthusiast from India</h3>
+<h4 align="center"> Currently exploring Machine Learning, Deep Learning, and Generative AI </h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketsinghk&label=Profile%20views&color=0e75b6&style=flat" alt="niketsinghk" /> </p>
