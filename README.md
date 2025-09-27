@@ -1,25 +1,67 @@
-<h1 align="center">Hi, I'm Niket Kumar Singh</h1>
-<h3 align="center">A passionate Data Science & AI Enthusiast from India</h3>
-<h4 align="center"> Currently exploring Machine Learning, Deep Learning, and Generative AI </h4>
-<h1 align="left"> About ME</h1>
-<h0 align="left">1.Exploring the crossroads of Artificial Intelligence to create Medical ChatBot, real-world applications.</h0>
-<h0 align="left">2.Skilled in developing AI-powered web apps, working with LLMs, and delivering responsive full-stack solutions.</h0>
-<h0 align="left">3.Actively contributing to open-source projects and building tools that boost productivity and accessibility.</h0>
-<h0 align="left">4.Open to collaborations in AI/ML, NLP, web applications, and research-driven projects.</h0>
-<h0 align="left">5.Driven by continuous learning — with a strong curiosity for multimodal AI, real-time systems, and human-AI interaction.</h0>
+# Niket Kumar Singh  
+### Artificial Intelligence & Data Science Enthusiast  
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niketsinghk&label=Profile%20views&color=0e75b6&style=flat" alt="niketsinghk" /> </p>
+## About Me  
+I am a B.Tech student in Artificial Intelligence and Data Science with hands-on experience in data analysis, machine learning, and model deployment.  
+Passionate about building real-world AI solutions, from predictive models to intelligent chatbots, with a focus on scalability and impact.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/niketsinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niketsinghk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikksingh73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikksingh73" height="30" width="40" /></a>
-</p>
+- Strong foundation in **Python, SQL, and Machine Learning frameworks**.  
+- Practical experience through **academic and internship projects**.  
+- Interested in **Generative AI, NLP, and applied AI research**.  
+- Committed to **continuous learning and open-source contribution**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
+## Experience  
 
+**AI & ML Trainee** | *Ethical Edufabrica Pvt. Ltd.* (Jul 2024 – Sep 2024)  
+- Built regression models to predict student exam scores.  
+- Improved accuracy by 15% through feature engineering and evaluation.  
+- Processed datasets with 5000+ records for better efficiency.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketsinghk&" alt="niketsinghk" /></p>
+**Data Science Intern** | *Celebal Technologies* (May 2024 – Jul 2024)  
+- Developed a regression-based **Salary Prediction Model**.  
+- Increased prediction accuracy by 20% through optimized preprocessing and tuning.  
+- Strengthened skills in Python, scikit-learn, and data visualization.  
+
+---
+
+## Projects  
+
+- **[Virtual Health Assistant (Med Bot)](https://github.com/niketsinghk/virtual-health-assistant)**  
+  AI-powered healthcare chatbot using Python, NLP, and TensorFlow. Achieved 25% improvement in response accuracy.  
+
+- **[Image Classification](https://github.com/niketsinghk/ImageClassification)**  
+  Deep learning model for categorizing images with TensorFlow. Improved accuracy by 18% with augmentation and hyperparameter tuning.  
+
+- **[Salary Prediction](https://github.com/niketsinghk/SalaryPrediction)**  
+  Regression model predicting salaries based on education, experience, and job role.  
+
+- **[House Price Prediction](https://github.com/niketsinghk/House-Price-Prediction)**  
+  Machine learning model to estimate house prices based on key market features.  
+
+---
+
+## Skills  
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, TensorFlow, scikit-learn, OpenCV, NLTK  
+- **Databases:** MySQL  
+- **Visualization:** Power BI, Excel, Matplotlib, Seaborn  
+- **Tools & Platforms:** Git, GitHub, Docker, Google Colab, VS Code  
+- **Concepts:** Machine Learning, NLP, Generative AI, OOPs  
+
+---
+
+## Certifications  
+
+- Data Science using Python – Infosys Foundation (Dec 2023)  
+- Machine Learning using Python (Apr 2024)  
+- Data Analytics with Python (Apr 2024)  
+- Generative AI (May 2024)  
+- RHCSA – Red Hat Certified System Administrator (Apr 2023)  
+
+---
+
