@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Niket Kumar Singh</h1>
 <h3 align="center">A passionate Data Science & AI Enthusiast from India</h3>
 <h4 align="center"> Currently exploring Machine Learning, Deep Learning, and Generative AI </h4>
+<h1 align="left"> About ME</h1>
+<h0 align="left">1.Exploring the crossroads of Artificial Intelligence to create Medical ChatBot, real-world applications.</h0>
+<h0 align="left">2.Skilled in developing AI-powered web apps, working with LLMs, and delivering responsive full-stack solutions.</h0>
+<h0 align="left">3.Actively contributing to open-source projects and building tools that boost productivity and accessibility.</h0>
+<h0 align="left">4.Open to collaborations in AI/ML, NLP, web applications, and research-driven projects.</h0>
+<h0 align="left">5.Driven by continuous learning — with a strong curiosity for multimodal AI, real-time systems, and human-AI interaction.</h0>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketsinghk&label=Profile%20views&color=0e75b6&style=flat" alt="niketsinghk" /> </p>
