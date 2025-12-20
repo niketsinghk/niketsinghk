@@ -1,5 +1,5 @@
 # Niket Kumar Singh  
-### Artificial Intelligence & N8N AUTOMATION
+### Artificial Intelligence & N8N Automation
 
 ---
 
@@ -10,7 +10,11 @@ Passionate about building real-world AI solutions, from predictive models to int
 - Strong foundation in **Python, SQL, and Machine Learning frameworks**.  
 - Practical experience through **academic and internship projects**.  
 - Interested in **Generative AI, NLP, and applied AI research**.  
-- Committed to **continuous learning and open-source contribution**.  
+- Committed to **continuous learning and open-source contribution**.
+- Hands-on experience with **n8n automation**, designing and deploying workflows that integrate APIs, databases, and AI services to streamline processes and data pipelines.
+- Committed to continuous learning and open-source contribution.
+
+
 
 ---
 
