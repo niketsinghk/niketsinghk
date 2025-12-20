@@ -20,10 +20,12 @@ Passionate about building real-world AI solutions, from predictive models to int
 
 ## Experience  
 
-**AI & ML Trainee** | *Ethical Edufabrica Pvt. Ltd.* (Jul 2024 – Sep 2024)  
-- Built regression models to predict student exam scores.  
-- Improved accuracy by 15% through feature engineering and evaluation.  
-- Processed datasets with 5000+ records for better efficiency.  
+**AI  intern** | * HCA Automation Affordable* (Present)  
+- Processed datasets with 5000+ records for better efficiency.
+- Developing a customized AI chatbot to address company requirements and enhance customer interaction.
+- Integrating Google APIs and automation tools to enable dynamic responses and contextual understanding in the chatbot.
+-  Currently building an agentic AI system using n8n automation for workflow optimization and intelligent task handling. 
+ 
 
 **Data Science Intern** | *Celebal Technologies* (May 2024 – Jul 2024)  
 - Developed a regression-based **Salary Prediction Model**.  
