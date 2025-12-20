@@ -1,5 +1,5 @@
 # Niket Kumar Singh  
-### Artificial Intelligence & Data Science Enthusiast  
+### Artificial Intelligence & N8N AUTOMATION
 
 ---
 
