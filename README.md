@@ -20,7 +20,7 @@ Passionate about building real-world AI solutions, from predictive models to int
 
 ## Experience  
 
-**AI  intern** | *HCA Automation Affordable* (Present)  
+**AI & Automation Executive** | *HCA Automation Affordable* (Present)  
 - Developing a customized AI chatbot to address company requirements and enhance customer interaction.
 - Integrating Google APIs and automation tools to enable dynamic responses and contextual understanding in the chatbot.
 -  Currently building an agentic AI system using n8n automation for workflow optimization and intelligent task handling. 
