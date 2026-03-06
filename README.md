@@ -34,18 +34,19 @@ Passionate about building real-world AI solutions, from predictive models to int
 ---
 
 ## Projects  
+## Projects
 
-- **[Virtual Health Assistant (Med Bot)](https://github.com/niketsinghk/virtual-health-assistant)**  
-  AI-powered healthcare chatbot using Python, NLP, and TensorFlow. Achieved 25% improvement in response accuracy.  
+- **[Twitter-Automation](https://github.com/niketsinghk/Twitter-Automation)**  
+  Automates Twitter (X) content creation and posting using n8n. The workflow fetches content ideas from sources like Google Sheets and generates engaging tweets or threads using AI.
 
-- **[Image Classification](https://github.com/niketsinghk/ImageClassification)**  
-  Deep learning model for categorizing images with TensorFlow. Improved accuracy by 18% with augmentation and hyperparameter tuning.  
+- **[Blog-Automation](https://github.com/niketsinghk/Blog-Automation)**  
+  End-to-end blog publishing automation using n8n. It collects topics or keywords, generates AI-based content, formats posts in Markdown, and creates SEO metadata.
 
-- **[Salary Prediction](https://github.com/niketsinghk/SalaryPrediction)**  
-  Regression model predicting salaries based on education, experience, and job role.  
+- **[Task-Reminder-AI-Agent](https://github.com/niketsinghk/Task-Reminder-AI-Agent)**  
+  Intelligent task reminder system powered by n8n automation that monitors tasks, tracks deadlines, and sends automated notifications to improve productivity.
 
-- **[House Price Prediction](https://github.com/niketsinghk/House-Price-Prediction)**  
-  Machine learning model to estimate house prices based on key market features.  
+- **[ChatBot](https://github.com/niketsinghk/ChatBot)**  
+  AI-powered chatbot built using Google's Gemini API and Node.js that processes user queries and generates contextual responses using generative AI.
 
 ---
 
@@ -54,8 +55,8 @@ Passionate about building real-world AI solutions, from predictive models to int
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, TensorFlow, scikit-learn, OpenCV, NLTK  
 - **Databases:** MySQL  
-- **Visualization:** Power BI, Excel, Matplotlib, Seaborn  
-- **Tools & Platforms:** Git, GitHub, Docker, Google Colab, VS Code  
+- **Visualization:** Excel, Matplotlib, Seaborn  
+- **Tools & Platforms:** Git, GitHub, Docker, Google Colab,N8N Automation 
 - **Concepts:** Machine Learning, NLP, Generative AI, OOPs  
 
 ---
