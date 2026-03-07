@@ -42,12 +42,11 @@ Passionate about building real-world AI solutions, from predictive models to int
 - **[Blog-Automation](https://github.com/niketsinghk/Blog-Automation)**  
   End-to-end blog publishing automation using n8n. It collects topics or keywords, generates AI-based content, formats posts in Markdown, and creates SEO metadata.
 
-- **[Task-Reminder-AI-Agent](https://github.com/niketsinghk/Task-Reminder-AI-Agent)**  
-  Intelligent task reminder system powered by n8n automation that monitors tasks, tracks deadlines, and sends automated notifications to improve productivity.
+- **[RAG-Chatbot](https://github.com/niketsinghk/RAG-Chatbot)**  
+  Retrieval-Augmented Generation (RAG) AI chatbot that ingests documents from Google Drive, converts them into embeddings using Google Gemini, stores them in Qdrant vector database, and answers user queries with context-aware responses.
 
-- **[ChatBot](https://github.com/niketsinghk/ChatBot)**  
-  AI-powered chatbot built using Google's Gemini API and Node.js that processes user queries and generates contextual responses using generative AI.
-
+- **[YouTube-Automation](https://github.com/niketsinghk/YouTube-Automation)**  
+  Automated YouTube publishing workflow that reads video data from Google Sheets, generates AI-powered descriptions using Gemini, downloads video files, and uploads them to YouTube automatically.
 ---
 
 ## Skills  
