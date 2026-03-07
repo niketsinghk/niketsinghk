@@ -42,7 +42,7 @@ Passionate about building real-world AI solutions, from predictive models to int
 - **[Blog-Automation](https://github.com/niketsinghk/Blog-Automation)**  
   End-to-end blog publishing automation using n8n. It collects topics or keywords, generates AI-based content, formats posts in Markdown, and creates SEO metadata.
 
-- **[RAG-Chatbot](https://github.com/niketsinghk/RAG-Ai-Chatbot)**  
+- **[RAG-Chatbot](https://github.com/niketsinghk/Rag-Ai-Chatbot)**  
   Retrieval-Augmented Generation (RAG) AI chatbot that ingests documents from Google Drive, converts them into embeddings using Google Gemini, stores them in Qdrant vector database, and answers user queries with context-aware responses.
 
 - **[YouTube-Automation](https://github.com/niketsinghk/YouTube-Automation)**  
