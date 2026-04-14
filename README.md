@@ -52,10 +52,10 @@ Passionate about building real-world AI solutions, from predictive models to int
 ## Skills  
 
 - **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, TensorFlow, scikit-learn, OpenCV, NLTK  
+- **Libraries:** Pandas, NumPy, TensorFlow, scikit-learn 
 - **Databases:** MySQL  
 - **Visualization:** Excel, Matplotlib, Seaborn  
-- **Tools & Platforms:** Git, GitHub, Docker, Google Colab,N8N Automation 
+- **Tools & Platforms:** Git, GitHub, Docker, Google Colab,N8N Automation,OpenClaw
 - **Concepts:** Machine Learning, NLP, Generative AI, OOPs  
 
 ---
