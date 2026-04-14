@@ -54,20 +54,20 @@ Passionate about building real-world AI solutions, from predictive models to int
 ## Skills  
 
 - **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, TensorFlow, scikit-learn 
+- **Libraries:** Pandas, NumPy, scikit-learn 
 - **Databases:** MySQL  
 - **Visualization:** Excel, Matplotlib, Seaborn  
-- **Tools & Platforms:** Git, GitHub, Docker, Google Colab,N8N Automation,OpenClaw
+- **Tools & Platforms:** Git, GitHub, Docker, N8N Automation,OpenClaw
 - **Concepts:** Machine Learning, NLP, Generative AI, OOPs  
 
 ---
 
 ## Certifications  
 
+- Generative AI (May 2024)  
 - Data Science using Python – Infosys Foundation (Dec 2023)  
 - Machine Learning using Python (Apr 2024)  
 - Data Analytics with Python (Apr 2024)  
-- Generative AI (May 2024)  
 - RHCSA – Red Hat Certified System Administrator (Apr 2023)  
 
 ---
