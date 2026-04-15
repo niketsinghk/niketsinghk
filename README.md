@@ -36,7 +36,8 @@ Passionate about building real-world AI solutions, from predictive models to int
 ## Projects
 
 - **[Ai-Automatic-Payslip](https://github.com/niketsinghk/Ai-Automatic-Payslip)**  
-  Automates employee payslip generation and email delivery using n8n. The workflow reads payroll data from Google Sheets, creates professional HTML payslips, converts them into PDFs with Gotenberg, sends them through Gmail, and updates delivery status automatically.
+ • Automates employee payslip generation and email delivery using n8n. The workflow reads payroll data from Google Sheets, creates professional HTML payslips, converts them into PDFs with Gotenberg, sends them through Gmail, and updates delivery status automatically.
+  •	Created end-to-end payslip creation for 200+ employees — reads payroll data from Google Sheets, renders branded HTML templates, converts to PDF, and emails via Gmail in a single n8n workflow.
 
 - **[Twitter-Automation](https://github.com/niketsinghk/Twitter-Automation)**  
   Automates Twitter (X) content creation and posting using n8n. The workflow fetches content ideas from sources like Google Sheets and generates engaging tweets or threads using AI.
