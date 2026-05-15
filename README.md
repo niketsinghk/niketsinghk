@@ -4,7 +4,7 @@
 ---
 
 ## About Me  
-I have completed B.Tech degree in Artificial Intelligence and Data Science with hands-on experience in data analysis, machine learning, and model deployment.  
+I have completed B.Tech degree in Artificial Intelligence and Data Science with Hands-on experience with **n8n automation**, designing and deploying workflows that integrate APIs, databases, and AI services to streamline processes and data pipelines.  
 Passionate about building real-world AI solutions, from predictive models to intelligent chatbots, with a focus on scalability and impact.  
 
 - Strong foundation in **Python, SQL, and Machine Learning frameworks**.  
